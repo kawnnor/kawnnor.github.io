@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kawnnor.com</id>
     <title>Kawnnor</title>
-    <updated>2020-03-28T07:35:44.972Z</updated>
+    <updated>2020-07-10T03:20:03.701Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kawnnor.com"/>
     <link rel="self" href="https://kawnnor.com/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>Always believe that something wonderful is about to happen.</subtitle>
     <logo>https://kawnnor.com/images/avatar.png</logo>
     <icon>https://kawnnor.com/favicon.ico</icon>
     <rights>All rights reserved 2020, Kawnnor</rights>
